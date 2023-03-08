@@ -79,5 +79,9 @@
         <li><a href="./isolabella.html">Isola Bella (Taormina)</a></li>
         </ul>
         </div>
+    </div>
+    <footer style="background-color: black; padding: 16px; text-align: center;">
+    <a style="color: white;" href="./caladeiturchi.html">Homepage</a>
+    </footer>
 </body>
 </html>
